@@ -13,7 +13,7 @@ body{
 }
 
 .hero-bg{
-    background: url("/images/bg.jpeg");
+    background: url("images/bg.jpeg");
     background-size: cover;
     background-position: 12% 83%; /* y and x axes */
     color: white;
